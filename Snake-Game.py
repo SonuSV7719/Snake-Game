@@ -1,7 +1,7 @@
 ''' Snake and apple game ---->
 Snake and apple game is my one of the favorite game of past.
 
-Coded By: Sonu Shriram Vishwakarma(FD23)
+Coded By: Sonu Shriram Vishwakarma(SAI&D61)
 
 '''
 
